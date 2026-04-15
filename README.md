@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🎧 Stratocaster1112 / StratosphericChiptune
 
-<!--
-**stratocaster1112/stratocaster1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yo 👋
+baixo na mão, código na tela
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎸 sobre mim
+
+toco baixo (muito)
+curto math rock, prog e umas paradas meio experimentais
+às vezes faço umas ideias meio estranhas que acabam virando projeto
+
+---
+
+## 💻 o que eu mexo
+
+* html / css / js
+* node.js
+* react
+* brincando com backend e apis
+
+---
+
+## 🚀 projetos
+
+* 🖥️ recriando interface do windows 7 na web
+* 🐾 petinder (tipo tinder… mas pra pets)
+* 🎵 ideias musicais aleatórias que talvez virem algo
+
+---
+
+## 📊 stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=radical)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact)
+
+---
+
+## 🎵 vibe
+
+baixo pesado
+melodias quebradas
+código funcionando (às vezes)
+
+---
+
+## ⚡ extra
+
+sempre tentando fazer algo diferente
+nem sempre dá certo, mas quando dá fica daora
