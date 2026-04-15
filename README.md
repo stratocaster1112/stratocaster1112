@@ -30,14 +30,6 @@ curto math rock, prog e umas paradas meio experimentais
 
 ---
 
-## 📊 stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=radical)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact)
-
----
-
 ## 🎵 vibe
 
 baixo pesado
